@@ -1,0 +1,30 @@
+* {
+  background-color: #f0f0f0;
+}
+
+.App {
+  text-align: center;
+}
+
+.App h1 {
+  color: #3498db;
+  font-size: 30px;
+}
+
+.App input {
+  width: 200px;
+  height: 25px;
+  text-align: center;
+  margin-bottom: 10px;
+  border: 1px solid black;
+}
+
+.App button {
+  width: 200px;
+  height: 35px;
+  background-color: #3498db;
+}
+
+.App button:hover {
+  background-color: #555555;
+}
